@@ -1,4 +1,4 @@
-## 0.2.0-TEST-1
+## 0.2.0
 * [JIRATEST-1](https://moranigotestlizzy.atlassian.net/browse/JIRATEST-1) Mrrr
 
 ## 0.1.0-MORANIGO-2
