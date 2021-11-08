@@ -1,5 +1,5 @@
 ## [0.0.4](https://unstable8.re-lizzy.xyz/releases/workspace-moranigo/UNSTABLE8-1)
-
+* [UNSTABLETWO-2](https://tracker.yandex.ru/UNSTABLETWO-2) без ПР (#8)
 
 ## 0.2.0
 * [JIRATEST-1](https://moranigotestlizzy.atlassian.net/browse/JIRATEST-1) Mrrr
