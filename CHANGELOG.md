@@ -1,3 +1,6 @@
+## [0.2.4](https://rc.re-lizzy.xyz/drws/releases/DRWS-1)
+
+
 ## 0.2.0
 * [JIRATEST-1](https://moranigotestlizzy.atlassian.net/browse/JIRATEST-1) Mrrr
 
