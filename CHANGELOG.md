@@ -1,3 +1,6 @@
+## [0.2.5](https://rc.re-lizzy.xyz/drws/releases/DRWS-2)
+
+
 ## [0.2.4](https://rc.re-lizzy.xyz/drws/releases/DRWS-1)
 
 
